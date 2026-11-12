@@ -59,12 +59,8 @@ The Ridge Regression model explains approximately 74.24% of the variance in insu
 
 ```text
 Medical-Insurance-Cost-Prediction/
-│
 ├── Insurance_Cost_Prediction.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore
-│
 └── results/
     ├── model_comparison.png
     └── cross_validation.png
